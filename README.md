@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew!
 - 👀 I’m interested in Comics, Coding and absolutely Anime And Manga!
-- 🌱 I’m currently learning C++, Javascript, Phyton.
+- 🌱 I’m currently learning C, Javascript, Python.
 - 💞️ I’m looking to collaborate on Anything.
 - 📫 How to reach me Reach me out on my email simmelord@gmail.com
 - 😄 Pronouns: He/Him
